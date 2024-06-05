@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZMMlSHPiO5dU2282jEiT2l7CfVXEXaSter0R22GiCkVUjx6iRKbaYZY7dtiZxAblM8gQKTSxxwb2PiX2NXo9A==",
+  "success": true,
+  "projectFilePath": "D:\\Didar\\Development\\DotNet\\DesktopApp\\WpfApp\\WpfApp\\WpfApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.web.webview2\\1.0.2535.41\\microsoft.web.webview2.1.0.2535.41.nupkg.sha512"
+  ],
+  "logs": []
+}
